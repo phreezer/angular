@@ -1,2 +1,2 @@
-# lm-angular-1.2.28
-Fork of Angular 1.2.28 that works with Juniper VPN routers
+# lm-angular-1.4.1
+Fork of Angular 1.4.1 that works with Juniper VPN routers
